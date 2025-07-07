@@ -1,0 +1,1 @@
+# masnm.nvim
